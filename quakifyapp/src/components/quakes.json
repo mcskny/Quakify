@@ -1,0 +1,326 @@
+{
+    "quakes": [
+        {
+            "properties": {
+                "id": 1,
+                "city": "Istanbul,Türkiye",
+                "magnitude": 6.8,
+                "depth": 23.2,
+                "date": "04/07/2002",
+                "time": 14.22
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.5722, 41.0819]
+            }
+        },
+        {
+            "properties": {
+            "id": 2,
+            "city": "Los Angeles,USA",
+            "magnitude": 7.1,
+            "depth": 87.6,
+            "date": "08/15/2016",
+            "time": 21.11
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [-118.2437, 34.0522]
+            }
+            },
+        {
+            "properties": {
+            "id": 3,
+            "city": "Tokyo, Japan",
+            "magnitude": 5.8,
+            "depth": 98.3,
+            "date": "10/23/2010",
+            "time": 6.45
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [139.6917, 35.6895]
+            }
+            },
+            {
+                "properties": {
+                "id": 4,
+                "city": "Santiago, Chile",
+                "magnitude": 6.5,
+                "depth": 102.8,
+                "date": "03/21/2005",
+                "time": 18.03
+                },
+                "geometry": {
+                "type": "Point",
+                "coordinates": [-70.6483, -33.4489]
+                }
+                },
+                {
+                    "properties": {
+                    "id": 5,
+                    "city": "Rome, Italy",
+                    "magnitude": 5.9,
+                    "depth": 81.2,
+                    "date": "11/12/2019",
+                    "time": 19.27
+                    },
+                    "geometry": {
+                    "type": "Point",
+                    "coordinates": [12.4964, 41.9028]
+                    }
+                    },
+                    {
+                    "properties": {
+                    "id": 6,
+                    "city": "Moscow, Russia",
+                    "magnitude": 6.8,
+                    "depth": 115.5,
+                    "date": "06/05/2008",
+                    "time": 16.58
+                    },
+                    "geometry": {
+                    "type": "Point",
+                    "coordinates": [37.6173, 55.7558]
+                    }
+                    },
+                    {
+                    "properties": {
+                    "id": 7,
+                    "city": "Sydney, Australia",
+                    "magnitude": 5.6,
+                    "depth": 92.1,
+                    "date": "09/18/2014",
+                    "time": 13.12
+                    },
+                    "geometry": {
+                    "type": "Point",
+                    "coordinates": [151.2093, -33.8688]
+                    }
+                    },
+                    {
+                    "properties": {
+                    "id": 8,
+                    "city": "Mexico City, Mexico",
+                    "magnitude": 7.3,
+                    "depth": 105.9,
+                    "date": "07/19/2017",
+                    "time": 13.55
+                    },
+                    "geometry": {
+                    "type": "Point",
+                    "coordinates": [-99.1332, 19.4326]
+                    }
+                    },
+                    {
+                        "properties": {
+                        "id": 9,
+                        "city": "Mumbai, India",
+                        "magnitude": 6.1,
+                        "depth": 78.6,
+                        "date": "02/28/2001",
+                        "time": 17.36
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [72.8777, 19.076]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 10,
+                        "city": "Berlin, Germany",
+                        "magnitude": 5.7,
+                        "depth": 84.2,
+                        "date": "05/09/2013",
+                        "time": 22.18
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [13.4049, 52.52]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 11,
+                        "city": "Beijing, China",
+                        "magnitude": 6.3,
+                        "depth": 91.7,
+                        "date": "12/30/2006",
+                        "time": 18.09
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [116.4074, 39.9042]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 12,
+                        "city": "Cairo, Egypt",
+                        "magnitude": 5.5,
+                        "depth": 79.4,
+                        "date": "08/27/2015",
+                        "time": 17.48
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [31.2357, 30.0444]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 13,
+                        "city": "Paris, France",
+                        "magnitude": 6.9,
+                        "depth": 97.5,
+                        "date": "06/14/2009",
+                        "time": 11.27
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [2.3522, 48.8566]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 14,
+                        "city": "Lima, Peru",
+                        "magnitude": 7.2,
+                        "depth": 112.8,
+                        "date": "04/03/2011",
+                        "time": 12.51
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [-77.0428, -12.0464]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 15,
+                        "city": "Seoul, South Korea",
+                        "magnitude": 4.9,
+                        "depth": 86.3,
+                        "date": "11/28/2018",
+                        "time": 19.13
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [126.978, 37.5665]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 16,
+                        "city": "Bangkok, Thailand",
+                        "magnitude": 6.4,
+                        "depth": 99.2,
+                        "date": "03/16/2012",
+                        "time": 15.39
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [100.5018, 13.7563]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 17,
+                        "city": "Toronto, Canada",
+                        "magnitude": 5.7,
+                        "depth": 82.9,
+                        "date": "07/22/2019",
+                        "time": 18.45
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [-79.3832, 43.6532]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 18,
+                        "city": "Buenos Aires, Argentina",
+                        "magnitude": 6.5,
+                        "depth": 101.8,
+                        "date": "02/10/2014",
+                        "time": 20.02
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [-58.3816, -34.6037]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 19,
+                        "city": "London, UK",
+                        "magnitude": 5.9,
+                        "depth": 88.4,
+                        "date": "09/05/2004",
+                        "time": 11.58
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [-0.1276, 51.5074]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 20,
+                        "city": "Jakarta, Indonesia",
+                        "magnitude": 7.0,
+                        "depth": 105.6,
+                        "date": "01/17/2007",
+                        "time": 14.33
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [106.865, -6.2088]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 21,
+                        "city": "New Delhi, India",
+                        "magnitude": 4.1,
+                        "depth": 98.7,
+                        "date": "06/30/2010",
+                        "time": 23.47
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [77.209, 28.6139]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 22,
+                        "city": "Madrid, Spain",
+                        "magnitude": 5.8,
+                        "depth": 87.9,
+                        "date": "12/12/2013",
+                        "time": 16.14
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [-3.7038, 40.4168]
+                        }
+                        },
+                        {
+                        "properties": {
+                        "id": 23,
+                        "city": "Yamala, Russia",
+                        "magnitude": 7.8,
+                        "depth": 87.9,
+                        "date": "12/12/2013",
+                        "time": 16.14
+                        },
+                        "geometry": {
+                        "type": "Point",
+                        "coordinates": [80, 58.717]
+                        }
+                        }
+    ]
+  }

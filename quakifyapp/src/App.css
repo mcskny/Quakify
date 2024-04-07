@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: inter;
+  src: url(../public/fonts/Inter-SemiBold.ttf);
+}
+@font-face {
+  font-family: inter-light;
+  src: url(../public/fonts/Inter-Light.ttf);
+}
+@font-face {
+  font-family: inter-bold;
+  src: url(../public/fonts/Inter-ExtraBold.ttf);
+}
+.inter{
+  font-family: inter;
+}
+.inter-light{
+  font-family: inter-light;
+  font-weight: 200;
+}
+.inter-bold{
+  font-family: inter-bold;
+}
+body{
+  background-color: #202020;
+  overflow: hidden;
+}
+*{
+  overflow: hidden;
+  scrollbar-width: none;
+}
+#mySelect option:hover {
+  background-color: #4a4a4a;
+}

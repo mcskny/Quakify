@@ -1,0 +1,19 @@
+.map-wrap {
+    position: relative;
+    width: 80%;
+    height: 92vh; /* calculate height of the screen minus the heading */
+  }
+  
+  .map {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+
+  .marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+}
