@@ -24,4 +24,7 @@ API yöntemi olarak Rest-API kullanıldı. Depremleri sınıflandırıp büyükl
 | Proje docker-compose üzerinden tek bir komut ile çalışacak şekilde servis edilmeli ve nasıl çalışır hale getirileceği detaylı ve güzel bir şekilde README olarak yazılmış olmalıdır. | Docker Compose yapılmış fakat yetiştirilemediği için çalışmamaktadır   |
 
 # Kurulum
--
+- Dosyalar **C:\xampp\htdocs\quakify** konumunda olmalıdır
+- Xampp başlatılmalıdır
+- MySQL açılıp **içeri aktar** kısmından Data.sql dahil edilmelidir
+- 
