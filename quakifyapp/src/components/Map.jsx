@@ -69,7 +69,6 @@ export default function Map() {
         document.getElementById("info").innerHTML = "";
       });
 
-      // add marker to map
       const newMarker = new maptilersdk.Marker({ element: child })
         .setLngLat(marker.coordinates.split(","))
         .addTo(map);
@@ -80,7 +79,7 @@ export default function Map() {
     setMarkers(newMarkers);
 
     return () => {
-      map.remove(); // Unmounting cleanup
+      map.remove(); 
     };
   }, [ist.lng, ist.lat, zoom, quak]);
 

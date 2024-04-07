@@ -46,7 +46,7 @@ const sendDataToPHP = () => {
     if (response.ok) {
       alert('Veri başarıyla gönderildi.', );
     } else {
-      alert('Veri gönderilirken bir hata oluştu.');
+      alert('Veri gönderilirken bir sdfasdfhata oluştu.');
     }
   })
   .catch(error => {

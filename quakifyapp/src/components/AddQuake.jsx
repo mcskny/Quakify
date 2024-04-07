@@ -47,9 +47,6 @@ const AddQuake = () => {
     };
 
 
-    const handleClick = () => {
-        // Tıklama işlemi gerçekleştiğinde yapılması gereken işlemleri buraya ekleyebilirsiniz
-      };
   return (
     <div>
         <Random></Random>
