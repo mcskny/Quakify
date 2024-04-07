@@ -27,4 +27,7 @@ API yöntemi olarak Rest-API kullanıldı. Depremleri sınıflandırıp büyükl
 - Dosyalar **C:\xampp\htdocs\quakify** konumunda olmalıdır
 - Xampp başlatılmalıdır
 - MySQL açılıp **içeri aktar** kısmından Data.sql dahil edilmelidir
-- 
+- **C:\xampp\htdocs\quakify\quakifyapp** konumuna gelinip terminalde **npm start** komutu başlatılmalıdır.
+- **http://localhost:3000** konumunda başlamış olması gerekmektedir
+
+*umarım beğenmişsinizdir*
