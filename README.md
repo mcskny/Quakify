@@ -85,7 +85,7 @@ Build klasöründeki (`quakifyapp/build`) dosyaları web sunucunuza yükleyin. T
 
 ## Katkıda Bulunma
 
-Projeye katkıda bulunmak isterseniz, lütfen bir Pull Request (Çekme İsteği) gönderin.
+Projeye katkıda bulunmak isterseniz, lütfen bir Pull Request gönderin.
 
 ## Lisans
 
