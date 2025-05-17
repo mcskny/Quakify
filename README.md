@@ -63,7 +63,7 @@ npm start
 
 Uygulama `http://localhost:3000` adresinde açılacaktır.
 
-## Build (Üretim Ortamı İçin)
+## Build
 
 Projeyi üretim ortamı için build etmek üzere:
 
@@ -74,7 +74,7 @@ npm run build
 
 Bu komut, dağıtıma hazır dosyaları `quakifyapp/build` klasöründe oluşturacaktır.
 
-## Dağıtım (Deployment)
+## Deployment
 
 Build klasöründeki (`quakifyapp/build`) dosyaları web sunucunuza yükleyin. Tek Sayfa Uygulaması (SPA) yönlendirmesinin doğru çalışması için sunucunuzun tüm yolları (dosya olarak mevcut olmayanlar dahil) `index.html` dosyasına yönlendirmesi gerekmektedir.
 
