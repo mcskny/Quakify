@@ -82,9 +82,6 @@ Build klasöründeki (`quakifyapp/build`) dosyaları web sunucunuza yükleyin. T
 *   **Nginx Sunucusu:** Sunucu yapılandırmanızda `try_files $uri $uri/ /index.html;` gibi bir kural ekleyin.
 *   **Diğer Sunucular/Platformlar:** Kullandığınız barındırma hizmetinin dokümantasyonuna başvurun.
 
-## Bilinen Sorunlar
-
-*   Contact sayfasında mobil cihazlarda kaydırma sorunu yaşanabilmektedir. Bu sorun hala araştırılmaktadır.
 
 ## Katkıda Bulunma
 
