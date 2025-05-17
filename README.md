@@ -8,6 +8,10 @@ Quakify, son depremleri listeleyen, filtreleyen, sıralayan ve harita üzerinde 
 **Not:** Bu proje bir demo projesidir ve kullanılan veri gerçek olmayabilir.
 ![resim](https://github.com/user-attachments/assets/f2e51d61-93b4-411c-a8b7-3bb6a1ce8a80)
 
+## Demo
+
+Demoyu incelemek için: [https://quakify.mcskn.com](https://quakify.mcskn.com)
+
 ## Kurulum
 
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
@@ -88,4 +92,4 @@ Projeye katkıda bulunmak isterseniz, lütfen bir Pull Request (Çekme İsteği)
 
 ## Lisans
 
-[Lisans Bilgisi Buraya Eklenecek (Örn: MIT)]
+Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
