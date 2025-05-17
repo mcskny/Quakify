@@ -10,7 +10,7 @@ Quakify, son depremleri listeleyen, filtreleyen, sıralayan ve harita üzerinde 
 
 ## Demo
 
-Demoyu incelemek için: [https://quakify.mcskn.com](https://quakify.mcskn.com)
+Demoyu incelemek için: [quakify.mcskn.com](https://quakify.mcskn.com)
 
 ## Kurulum
 
