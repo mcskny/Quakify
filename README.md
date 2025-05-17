@@ -5,6 +5,7 @@
 Quakify, son depremleri listeleyen, filtreleyen, sıralayan ve harita üzerinde gösteren bir web uygulamasıdır. React, Tailwind CSS ve Maptiler SDK kullanılarak geliştirilmiştir.
 
 **Not:** Bu proje bir demo projesidir ve kullanılan veri gerçek olmayabilir.
+![resim](https://github.com/user-attachments/assets/f2e51d61-93b4-411c-a8b7-3bb6a1ce8a80)
 
 ## Kurulum
 
