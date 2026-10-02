@@ -1,6 +1,6 @@
 # Quakify - Earthquake Visualization and Information App
 
-Demoyu incelemek için: [https://quakify.mcskn.com](https://quakify.mcskn.com)
+Demoyu incelemek için: [https://quakify.mcskn.com](https://quakify.mlickn.com)
 ## Proje Hakkında
 
 Quakify, son depremleri listeleyen, filtreleyen, sıralayan ve harita üzerinde gösteren bir web uygulamasıdır. React, Tailwind CSS ve Maptiler SDK kullanılarak geliştirilmiştir.
